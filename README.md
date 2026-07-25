@@ -36,3 +36,10 @@ pip install -r requirements.txt
 ![Rerank](https://img.shields.io/badge/Rerank-LLM%20Reranking-7B68EE?logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-Text%20Splitter-1C3C3C?logo=langchain&logoColor=white)
 ![MinerU](https://img.shields.io/badge/MinerU-PDF%20Parsing-2E8B57?logo=adobeacrobatreader&logoColor=white)
+
+## 🙏 Acknowledgements / 致谢
+本项目基于 [RAG-Challenge-2](https://github.com/IlyaRice/RAG-Challenge-2) 进行改编和优化。
+感谢原作者 [@IlyaRice](https://github.com/IlyaRice/RAG-Challenge-2) 的优秀工作，为本项目提供了坚实的基础。
+
+This project is adapted from [RAG-Challenge-2](https://github.com/IlyaRice/RAG-Challenge-2). 
+Special thanks to the original author [@IlyaRice](https://github.com/IlyaRice/RAG-Challenge-2) for his excellent work.
